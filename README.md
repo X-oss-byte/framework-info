@@ -384,3 +384,4 @@ For example
   ]
 }
 ```
+contact mail: <buildchromium@hotmail.com>
